@@ -37,7 +37,6 @@ Running this search provided the location of the WiFi network, as well as the SS
 <br />
 <br />
 The flag value is <strong>PCTF{@Red's Table Free Wifi}</strong>!
-<h2>Key takeaways:</h2>
 <p align="center">
 <!--
  ```diff
